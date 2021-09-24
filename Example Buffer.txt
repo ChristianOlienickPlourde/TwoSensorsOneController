@@ -1,0 +1,36 @@
+% Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+% Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+% Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+% Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+% Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+% Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+% Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+% Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+% Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+% Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+% Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+% Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+% Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+% Sensor 11832 outputs:%185.29;TwoSensorsOneController.sln
+% Sensor 11832 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+% Sensor 17608 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+% Sensor 11832 outputs:%89.3;TwoSensorsOneController.vcxproj
+% Sensor 17608 outputs:%89.3;TwoSensorsOneController.vcxproj
+% Sensor 11832 outputs:%176.97;TwoSensorsOneController.sln
+% Sensor 17608 outputs:%176.97;TwoSensorsOneController.sln
+% Sensor 17608 outputs:%49.91;Log.txt
+% Sensor 11832 outputs:%49.91;Log.txt
+% Sensor 11832 outputs:%178.03;TwoSensorsOneController.sln
+% Sensor 17608 outputs:%178.03;TwoSensorsOneController.sln
+% Sensor 11832 outputs:%104.59;Log.txt
+% Sensor 17608 outputs:%104.59;Log.txt
+% Sensor 17608 outputs:%112.62;Log.txt
+% Sensor 11832 outputs:%112.62;Log.txt
+% Se'so$ 11<32 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+% Se'so$ 17<08 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+% Sensor 17608 outputs:%100.36;TwoSensorsOneController.vcxproj
+% Sensor 11832 outputs:%100.36;TwoSensorsOneController.vcxproj
+% Sensor 17608 outputs:%139.29;TwoSensorsOneController.sln
+% Sensor 11832 outputs:%139.29;TwoSensorsOneController.sln
+% ?ensor 17608]outputs:%125.46;TwoSensorsOneController.vcxproj.filters
+% ?ensor 11832]outputs:%125.46;TwoSensorsOneController.vcxproj.filters

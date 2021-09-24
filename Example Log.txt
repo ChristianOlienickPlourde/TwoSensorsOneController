@@ -1,0 +1,397 @@
+Sensor 17608 is now ready.
+Sensor 11832 is now ready.
+Controller 13224 is clearing old buffer.
+Controller 13224 is now ready.
+Sensor 17608 is now active.
+Controller 13224 is now active.
+Sensor 11832 is now active.
+Sensor 17608 is prepairing data.
+Controller 13224 is waiting for next schedualed update in 111ms. 
+Sensor 11832 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 34ms. 
+Sensor 17608 is waiting for next schedualed update in 34ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 39ms. 
+Sensor 11832 is waiting for next schedualed update in 39ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 41ms. 
+Sensor 11832 is waiting for next schedualed update in 41ms. 
+Controller 13224 is reading data.
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+Controller 13224 is waiting for next schedualed update in 105ms. 
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 44ms. 
+Sensor 17608 is waiting for next schedualed update in 44ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 34ms. 
+Sensor 11832 is waiting for next schedualed update in 34ms. 
+Controller 13224 is reading data.
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 35ms. 
+Sensor 17608 is waiting for next schedualed update in 35ms. 
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+Controller 13224 is waiting for next schedualed update in 94ms. 
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % !e.so' 11832 o&tputs:%61.~5;;og.txt
+
+Object 17608 prints to buffer: % !e.so' 17608 o&tputs:%61.~5;;og.txt
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 44ms. 
+Sensor 17608 is waiting for next schedualed update in 43ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 45ms. 
+Sensor 11832 is waiting for next schedualed update in 45ms. 
+Controller 13224 is reading data.
+Sensor 17608 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+
+Sensor 17608 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 48ms. 
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+Controller 13224 is waiting for next schedualed update in 90ms. 
+Sensor 11832 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%185.29;TwoSensorsOneController.sln
+
+Sensor 11832 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 33ms. 
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 36ms. 
+Sensor 17608 is waiting for next schedualed update in 36ms. 
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Controller 13224 is reading data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%89.3;TwoSensorsOneController.vcxproj
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%89.3;TwoSensorsOneController.vcxproj
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 34ms. 
+Sensor 17608 is waiting for next schedualed update in 34ms. 
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%89.3;TwoSensorsOneController.vcxproj
+Controller 13224 is waiting for next schedualed update in 78ms. 
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%176.97;TwoSensorsOneController.sln
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%176.97;TwoSensorsOneController.sln
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 39ms. 
+Sensor 17608 is waiting for next schedualed update in 39ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%49.91;Log.txt
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%49.91;Log.txt
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 41ms. 
+Sensor 11832 is waiting for next schedualed update in 41ms. 
+Controller 13224 is reading data.
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%11.48'TwoSenso^sOne"on|rolle%.cpp
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%11.48'TwoSenso^sOne"on|rolle%.cpp
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 44ms. 
+Sensor 17608 is waiting for next schedualed update in 43ms. 
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%49.91;Log.txt
+writing verified line: % Sensor 11832 outputs:%49.91;Log.txt
+Controller 13224 is waiting for next schedualed update in 71ms. 
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%178.03;TwoSensorsOneController.sln
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%178.03;TwoSensorsOneController.sln
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 33ms. 
+Sensor 17608 is waiting for next schedualed update in 33ms. 
+Controller 13224 is reading data.
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Sensor 11832 outputs:%104.59;Log.txt
+
+Object 17608 prints to buffer: % Sensor 17608 outputs:%104.59;Log.txt
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 35ms. 
+Sensor 17608 is waiting for next schedualed update in 35ms. 
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%49.91;Log.txt
+writing verified line: % Sensor 11832 outputs:%49.91;Log.txt
+writing verified line: % Sensor 11832 outputs:%178.03;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%178.03;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%104.59;Log.txt
+writing verified line: % Sensor 17608 outputs:%104.59;Log.txt
+Controller 13224 is waiting for next schedualed update in 70ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%112.62;Log.txt
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%112.62;Log.txt
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 38ms. 
+Sensor 11832 is waiting for next schedualed update in 37ms. 
+Sensor 11832 is sending data.
+Sensor 17608 is sending data.
+Object 11832 prints to buffer: % Se'so$ 11<32 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+
+Object 17608 prints to buffer: % Se'so$ 17<08 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+
+Sensor 11832 is prepairing data.
+Sensor 17608 is prepairing data.
+Sensor 11832 is waiting for next schedualed update in 43ms. 
+Sensor 17608 is waiting for next schedualed update in 43ms. 
+Controller 13224 is reading data.
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%100.36;TwoSensorsOneController.vcxproj
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%100.36;TwoSensorsOneController.vcxproj
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 45ms. 
+Sensor 11832 is waiting for next schedualed update in 44ms. 
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%49.91;Log.txt
+writing verified line: % Sensor 11832 outputs:%49.91;Log.txt
+writing verified line: % Sensor 11832 outputs:%178.03;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%178.03;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%104.59;Log.txt
+writing verified line: % Sensor 17608 outputs:%104.59;Log.txt
+writing verified line: % Sensor 17608 outputs:%112.62;Log.txt
+writing verified line: % Sensor 11832 outputs:%112.62;Log.txt
+writing verified line: % Se'so$ 11<32 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+writing verified line: % Se'so$ 17<08 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+writing verified line: % Sensor 17608 outputs:%100.36;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%100.36;TwoSensorsOneController.vcxproj
+Controller 13224 is waiting for next schedualed update in 45ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Object 17608 prints to buffer: % Sensor 17608 outputs:%139.29;TwoSensorsOneController.sln
+
+Object 11832 prints to buffer: % Sensor 11832 outputs:%139.29;TwoSensorsOneController.sln
+
+Sensor 17608 is prepairing data.
+Sensor 11832 is prepairing data.
+Sensor 17608 is waiting for next schedualed update in 32ms. 
+Sensor 11832 is waiting for next schedualed update in 32ms. 
+Sensor 17608 is sending data.
+Sensor 11832 is sending data.
+Controller 13224 is reading data.
+Object 17608 prints to buffer: % ?ensor 17608]outputs:%125.46;TwoSensorsOneController.vcxproj.filters
+
+Object 11832 prints to buffer: % ?ensor 11832]outputs:%125.46;TwoSensorsOneController.vcxproj.filters
+
+Sensor 17608 is now shutdown after running 1026ms.
+Sensor 11832 is now shutdown after running 1026ms.
+Controller 13224 is writing verified data.
+writing verified line: % Sensor 17608 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 11832 outputs:%70.68;TwoSensorsOneController.cpp
+writing verified line: % Sensor 17608 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%192.05;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%52.88;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%141.33;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%30.63;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%116.35;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%185.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 17608 outputs:%178.31;TwoSensorsOneController.vcxproj.filters
+writing verified line: % Sensor 11832 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%89.3;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%176.97;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%49.91;Log.txt
+writing verified line: % Sensor 11832 outputs:%49.91;Log.txt
+writing verified line: % Sensor 11832 outputs:%178.03;TwoSensorsOneController.sln
+writing verified line: % Sensor 17608 outputs:%178.03;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%104.59;Log.txt
+writing verified line: % Sensor 17608 outputs:%104.59;Log.txt
+writing verified line: % Sensor 17608 outputs:%112.62;Log.txt
+writing verified line: % Sensor 11832 outputs:%112.62;Log.txt
+writing verified line: % Se'so$ 11<32 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+writing verified line: % Se'so$ 17<08 outputs:%97.07;TwoSensorsOneController.vcxproj.fi ters
+writing verified line: % Sensor 17608 outputs:%100.36;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 11832 outputs:%100.36;TwoSensorsOneController.vcxproj
+writing verified line: % Sensor 17608 outputs:%139.29;TwoSensorsOneController.sln
+writing verified line: % Sensor 11832 outputs:%139.29;TwoSensorsOneController.sln
+writing verified line: % ?ensor 17608]outputs:%125.46;TwoSensorsOneController.vcxproj.filters
+writing verified line: % ?ensor 11832]outputs:%125.46;TwoSensorsOneController.vcxproj.filters
+Controller 13224 has detected 4 invalid entries
+from the 40 entries that have been written (10%).
+Controller 13224 is now shutdown after running 1026ms.
